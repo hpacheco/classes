@@ -32,7 +32,7 @@ LEI, DI, Universidade do Minho, 2025/26
 | 6 | Web — JavaScript | [JavaScript](slides/6_Web_JS.pdf) |
 | 7 | Modelação Conceptual | [Conceptual Modelling](slides/7_ConceptualModelling.pdf) |
 | 8 | Web Frameworks e Vue.js | [Web Frameworks](slides/8_WebFrameworks.pdf) · [Vue](slides/8_Vue.pdf) |
-| 9 | Componentes e Dados em Vue | [Web Components](slides/9_WebComponents.pdf) · [Vue Data](slides/9_VueData.pdf) |
+| 9 | Web Components e Dados em Vue | [Web Components](slides/9_WebComponents.pdf) · [Vue Data](slides/9_VueData.pdf) |
 | 10 | Componentes Vue | [Vue Components](slides/10_VueComponents.pdf) |
 | 11 | Routing e Estado em Vue | [Vue Routing](slides/11_VueRouting.pdf) · [Vue State Management](slides/11_VueStateManagement.pdf) |
 | 12 | Avaliação e Acessibilidade | [Avaliação de Interfaces](slides/12_AvaliacaoInterfaces.pdf) · [Web Accessibility](slides/12_WebAccessibility.pdf) |
