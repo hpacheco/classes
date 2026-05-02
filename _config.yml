@@ -1,16 +1,6 @@
 title: Teaching Materials
-description: Class slides and resources — Hugo Pacheco, DI, Universidade do Minho
-theme: minima
+description: Hugo Pacheco · DI, Universidade do Minho
+theme: jekyll-theme-cayman
 url: "https://hpacheco.github.io"
 baseurl: "/classes"
-
-author:
-  name: Hugo Pacheco
-  email: hugo.p.pacheco@inesctec.pt
-
-plugins:
-  - jekyll-relative-links
-
-relative_links:
-  enabled: true
-  collections: true
+show_downloads: false

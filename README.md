@@ -1,9 +1,3 @@
-# Teaching Materials
-
-Class slides and resources by **Hugo Pacheco**, DI, Universidade do Minho.
-
----
-
 ## Courses
 
 | Course | Year | Degree |
