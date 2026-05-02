@@ -1,6 +1,6 @@
 # Interface Pessoa-Máquina
 
-LEI/LCC, DI, Universidade do Minho, 2025/26
+LEI, DI, Universidade do Minho, 2025/26
 
 ---
 
